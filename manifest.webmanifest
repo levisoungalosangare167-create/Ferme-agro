@@ -1,0 +1,17 @@
+{
+  "name": "Gestion Ferme",
+  "short_name": "Ferme",
+  "description": "Suivi des cultures, de la caisse, des récoltes et de la rentabilité",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eaf0ea",
+  "theme_color": "#1f6b3a",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
